@@ -1,0 +1,32 @@
+PrimaryActivityCode,SecondaryActivityCode,DescriptiveLabel,StartDate,UniBathWeekNo,DayOfWeek,StartTime,EndTime,DurationMins,EnjoymentScore,FeelingHappy,WantFood
+S801,,Sleeping,02/20/22,20,Sunday,01:45,10:00,495,2,Yes,Yes
+ED145,EL642,Breakfast,02/20/22,20,Sunday,10:00,10:15,15,1,Yes,Yes
+EL642,UD415,Online lectures,02/20/22,20,Sunday,10:15,13:45,210,-1,No,No
+ED145,,Lunch,02/20/22,20,Sunday,13:45,14:45,60,2,Yes,Yes
+ED145,UD415,Online lectures,02/20/22,20,Sunday,14:45,17:45,180,-2,No,No
+L418,,Watching anime,02/20/22,20,Sunday,17:45,19:15,90,1,Yes,No
+S801,,Sleeping,02/20/22,20,Sunday,19:15,20:45,90,0,No,No
+L418,UD415,Watching TV,02/20/22,20,Sunday,20:45,22:15,90,2,No,No
+UD415,CW982,Chatting,02/20/22,20,Sunday,22:15,00:30,135,2,Yes,Yes
+S801,,Sleeping,02/21/22,21,Monday,00:30,09:45,555,2,Yes,Yes
+ED145,UD415,Breakfast,02/21/22,21,Monday,09:45,10:45,60,1,Yes,No
+R523,,Reading articles,02/21/22,21,Monday,10:45,11:45,60,1,Yes,No
+O733,,Preparing interview,02/21/22,21,Monday,11:45,12:00,15,-2,No,Yes
+O733,,Interview,02/21/22,21,Monday,12:00,13:00,60,2,Yes,Yes
+ED145,UD415,Lunch,02/21/22,21,Monday,13:00,15:00,120,2,Yes,Yes
+EL642,,Meetings,02/21/22,21,Monday,15:00,17:30,150,1,Yes,No
+L418,,Watching anime,02/21/22,21,Monday,17:30,18:15,45,2,Yes,Yes
+ED145,,Dinner,02/21/22,21,Monday,18:15,20:00,105,2,Yes,No
+L418,O733,TV and Showering,02/21/22,21,Monday,20:00,22:00,120,1,Yes,No
+UD415,,Chatting,02/21/22,21,Monday,22:00,23:00,60,1,Yes,Yes
+S801,,Sleeping,02/21/22,21,Monday,23:00,09:30,630,2,Yes,Yes
+ED145,,Breakfast,02/22/22,21,Tuesday,09:30,10:30,60,2,Yes,Yes
+L418,,Chatting,02/22/22,21,Tuesday,10:30,12:00,90,1,Yes,No
+EL642,O733,Online lectures,02/22/22,21,Tuesday,12:00,13:00,60,-2,No,No
+O733,H179,Mailing,02/22/22,21,Tuesday,13:00,15:30,150,0,No,No
+EL642,ED145,Online lectures and coffee,02/22/22,21,Tuesday,15:30,18:30,180,-2,No,No
+ED145,L418,Dinner and chatting with friends,02/22/22,21,Tuesday,18:30,19:30,60,0,No,Yes
+EL642,,Online lectures,02/22/22,21,Tuesday,19:30,22:00,150,-2,No,No
+L418,UD415,Youtube videos,02/22/22,21,Tuesday,22:00,23:30,90,1,Yes,Yes
+S801,,Sleeping,02/22/22,21,Tuesday,23:30,09:00,570,2,Yes,Yes
+EL642,,Labs,02/23/22,21,Wednesday,09:00,13:00,240,-1,No,No
